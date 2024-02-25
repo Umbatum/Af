@@ -1,0 +1,3889 @@
+1
+00:00:08,578 --> 00:00:11,028
+<i>ALGUNOS DICEN QUE SAM SPADE FUE...</i>
+
+2
+00:00:11,228 --> 00:00:15,763
+<i>EL MEJOR INVESTIGADOR PRIVADO
+QUE HAYA VIVIDO.</i>
+
+3
+00:00:15,963 --> 00:00:18,671
+<i>ALGUNOS DICEN QUE SAM SPADE FUE...</i>
+
+4
+00:00:18,871 --> 00:00:21,006
+<i>EL MEJOR INVESTIGADOR PRIVADO
+QUE HAYA VIVIDO...</i>
+
+5
+00:00:21,206 --> 00:00:24,870
+<i>EN SAN FRANCISCO.</i>
+
+6
+00:00:25,070 --> 00:00:31,407
+<i>TODO DEPENDE DE EN QUE BAR ESTÉS,
+CUANDO HAGAS ESA PREGUNTA.</i>
+
+7
+00:00:31,607 --> 00:00:33,636
+<i>PERO ESO FUE HACE MUCHO TIEMPO.</i>
+
+8
+00:00:33,836 --> 00:00:37,970
+<i>ANTES DE QUE ÉL DESAPARECIERA.</i>
+
+9
+00:00:38,170 --> 00:00:40,081
+<i>HAY QUIENES DICEN...</i>
+
+10
+00:00:40,281 --> 00:00:44,522
+<i>QUE VIVE EN ALGUNA PARTE
+DEL SUR DE FRANCIA.</i>
+
+11
+00:00:44,722 --> 00:00:46,737
+<i>Y OTROS DICEN...</i>
+
+12
+00:00:46,937 --> 00:00:48,955
+<i>¿FRANCIA?</i>
+
+13
+00:00:49,155 --> 00:00:52,617
+<i>¿SPADE?</i>
+
+14
+00:00:52,817 --> 00:00:58,723
+<i>¡DE NINGUNA MANERA!</i>
+
+15
+00:02:37,688 --> 00:02:41,962
+<i>BASADA EN EL PERSONAJE CREADO
+POR DASHIELL HAMMETT</i>
+
+16
+00:03:07,416 --> 00:03:11,343
+<i>Monsieur Spade - S01E01
+Una traducción de
+TaMaBin</i>
+
+17
+00:03:21,524 --> 00:03:23,052
+¿Hola?
+
+18
+00:03:23,752 --> 00:03:26,377
+¿Hay alguien en casa?
+
+19
+00:03:29,990 --> 00:03:35,856
+<i>BOZOULS, FRANCIA - 1955</i>
+
+20
+00:03:37,240 --> 00:03:38,345
+<i>¿Qué quiere?</i>
+
+21
+00:03:38,714 --> 00:03:42,078
+Philippe Saint-Andre, ¿está?
+
+22
+00:03:44,079 --> 00:03:47,792
+¿Habla inglés?
+
+23
+00:03:57,181 --> 00:03:59,323
+<i>Me llamo Samuel Spade.</i>
+
+24
+00:03:59,523 --> 00:04:01,439
+<i>Estoy aquí a petición...</i>
+
+25
+00:04:01,639 --> 00:04:05,876
+<i>de la difunta esposa de
+Philippe Saint-Andre,</i>
+
+26
+00:04:06,076 --> 00:04:08,194
+<i>Brigid O'Shaughnessy,</i>
+
+27
+00:04:08,395 --> 00:04:10,579
+<i>para entregarle...</i>
+
+28
+00:04:10,779 --> 00:04:13,520
+<i>a su hija Teresa.</i>
+
+29
+00:04:15,195 --> 00:04:16,195
+<i>Si fuera tan amable,</i>
+
+30
+00:04:16,395 --> 00:04:19,539
+<i>por favor dígale a
+Philippe que estoy...</i>
+
+31
+00:04:23,421 --> 00:04:26,655
+Vaya arma de pimienta
+que tiene ahí, señora.
+
+32
+00:04:28,878 --> 00:04:29,495
+Philippe...
+
+33
+00:04:29,695 --> 00:04:30,262
+<i>Devuélvamela.</i>
+
+34
+00:04:30,462 --> 00:04:32,852
+¿Dónde está?
+
+35
+00:04:34,875 --> 00:04:37,242
+<i>Esa no es hija de mi hijo...</i>
+
+36
+00:04:37,442 --> 00:04:41,340
+<i>y la buena para nada de la
+puta de Brigid, jamás fue su esposa.</i>
+
+37
+00:04:41,540 --> 00:04:43,757
+<i>Si ella está muerta,
+como usted dice,</i>
+
+38
+00:04:44,258 --> 00:04:46,281
+<i>el mundo ya es un lugar mejor.</i>
+
+39
+00:04:47,666 --> 00:04:48,628
+Yo consideraría esa una...
+
+40
+00:04:48,828 --> 00:04:50,428
+de las más cálidas
+bienvenidas de Audrey.
+
+41
+00:04:50,868 --> 00:04:51,648
+Pero ella dice la verdad,
+
+42
+00:04:51,848 --> 00:04:53,737
+no creo que Philippe
+se haya casado nunca,
+
+43
+00:04:54,537 --> 00:04:57,253
+y francamente,
+no sé quién se casaría con él.
+
+44
+00:04:57,553 --> 00:04:58,994
+No conoce a Brigid.
+
+45
+00:04:59,194 --> 00:05:01,349
+Tristemente,
+he conocido a muchas como Brigid.
+
+46
+00:05:01,549 --> 00:05:02,615
+Ella me pagó mucho dinero...
+
+47
+00:05:02,815 --> 00:05:05,096
+para asegurarme de que la niña
+fuera entregada a su padre.
+
+48
+00:05:05,604 --> 00:05:06,927
+No era de las que se
+desprenden del dinero,
+
+49
+00:05:07,127 --> 00:05:08,537
+y mucho menos mucho dinero.
+
+50
+00:05:08,937 --> 00:05:11,762
+¿Sabe dónde está
+Philippe Saint-Andre?
+
+51
+00:05:11,962 --> 00:05:14,287
+¿Quién lo sabe?
+Philippe es un vagabundo.
+
+52
+00:05:14,687 --> 00:05:17,098
+A veces está aquí,
+a veces está allá.
+
+53
+00:05:17,698 --> 00:05:19,231
+Entonces, el por qué su
+última voluntad, le instruyó...
+
+54
+00:05:19,431 --> 00:05:21,189
+a traer a la niña aquí
+es un misterio.
+
+55
+00:05:21,389 --> 00:05:23,235
+Todo lo que sé es que me
+enviaron un boleto de avión,
+
+56
+00:05:23,435 --> 00:05:26,454
+en primera clase de Pan Am, a Estambul,
+para recoger a la niña,
+
+57
+00:05:26,954 --> 00:05:30,179
+y dos boletos más, esta vez
+en clase turista, a Marsella.
+
+58
+00:05:30,379 --> 00:05:31,403
+Y así siendo instruido,
+
+59
+00:05:31,603 --> 00:05:32,963
+viene hasta nuestro
+pequeño pueblo,
+
+60
+00:05:33,782 --> 00:05:34,680
+sólo para llamar a una puerta...
+
+61
+00:05:34,880 --> 00:05:37,030
+y, entregar a la niña a
+quienquiera que respondiera.
+
+62
+00:05:37,330 --> 00:05:38,913
+Me dijeron que
+contestaría su padre.
+
+63
+00:05:39,113 --> 00:05:41,474
+¿No preguntó si la
+niña sería bienvenida?
+
+64
+00:05:41,674 --> 00:05:44,564
+Me pagaron demasiado
+como para preguntar.
+
+65
+00:05:44,864 --> 00:05:46,544
+¿Esto fue estrictamente
+un asunto de negocios...
+
+66
+00:05:46,744 --> 00:05:48,415
+entre usted y la
+señorita O'Shaughnessy?
+
+67
+00:05:48,815 --> 00:05:50,464
+Ella no eligió mi
+nombre de un sombrero,
+
+68
+00:05:50,664 --> 00:05:52,031
+si eso es lo que
+está preguntando.
+
+69
+00:05:52,431 --> 00:05:53,554
+Nos conocíamos.
+
+70
+00:05:53,754 --> 00:05:54,990
+Ya veo.
+
+71
+00:05:55,290 --> 00:05:56,718
+Cuando dice que "se conocían"...
+
+72
+00:05:56,918 --> 00:06:00,026
+quiere decir que se
+conocían... bien.
+
+73
+00:06:00,426 --> 00:06:02,245
+Lo suficiente como para
+que ella confiara en mí.
+
+74
+00:06:02,445 --> 00:06:05,291
+¿Eran amantes, quizás?
+
+75
+00:06:05,991 --> 00:06:07,088
+Jesús, los franceses.
+
+76
+00:06:07,288 --> 00:06:09,220
+- ¿Así que sí?
+- Brevemente, no terminó bien.
+
+77
+00:06:09,420 --> 00:06:10,526
+Nunca pasa.
+
+78
+00:06:10,826 --> 00:06:12,975
+Los corazones se rompen,
+uno sigue adelante,
+
+79
+00:06:13,175 --> 00:06:14,951
+el otro se vuelve
+solitario y amargado.
+
+80
+00:06:15,151 --> 00:06:16,213
+No llegamos tan lejos.
+
+81
+00:06:16,413 --> 00:06:18,951
+- ¿Por qué no?
+- La metí en la cárcel.
+
+82
+00:06:20,522 --> 00:06:21,882
+Así que,
+esta Brigid O'Shaughnessy,
+
+83
+00:06:22,201 --> 00:06:24,394
+confió en usted, porque la
+metió en la cárcel.
+
+84
+00:06:24,994 --> 00:06:27,398
+Confió en mí porque
+la saqué de la cárcel.
+
+85
+00:06:27,598 --> 00:06:28,598
+¿La sacó?
+
+86
+00:06:29,073 --> 00:06:29,905
+¿Cómo?
+
+87
+00:06:30,105 --> 00:06:31,750
+Sabía con quién hablar.
+
+88
+00:06:31,950 --> 00:06:33,552
+Una habilidad de lo más útil.
+
+89
+00:06:33,752 --> 00:06:36,107
+¿Y la razón por la que se
+sintió tan obligado a liberarla?
+
+90
+00:06:36,307 --> 00:06:38,457
+Llevaba 2 años en su
+condena de 20, cuando enfermó...
+
+91
+00:06:38,757 --> 00:06:41,112
+y descubrió que se estaba
+muriendo, o eso creía.
+
+92
+00:06:41,312 --> 00:06:43,841
+Resultó que incluso su
+cuerpo podía mentir.
+
+93
+00:06:44,041 --> 00:06:46,409
+Le dieron la condicional
+y vivió otros 4 años...
+
+94
+00:06:47,009 --> 00:06:48,471
+antes de morir en ese
+descarrilamiento de tren...
+
+95
+00:06:48,671 --> 00:06:50,391
+en las afueras de Estambul,
+hace unos meses.
+
+96
+00:06:50,986 --> 00:06:53,750
+La ironía siempre ha sido mi
+forma favorita de justicia.
+
+97
+00:06:53,950 --> 00:06:55,550
+Por no mencionar el
+tiempo que te ahorra.
+
+98
+00:06:56,104 --> 00:06:59,402
+¿Qué estaba haciendo ella,
+sí se puede saber, en Estambul?
+
+99
+00:06:59,602 --> 00:07:01,487
+Anticuaria.
+
+100
+00:07:02,505 --> 00:07:03,798
+Después de salir ella de la cárcel,
+
+101
+00:07:03,998 --> 00:07:06,627
+¿continuaron donde lo dejaron?
+
+102
+00:07:06,827 --> 00:07:08,890
+No duró mucho más,
+que el viaje en auto...
+
+103
+00:07:09,090 --> 00:07:10,761
+de la prisión al Motel.
+
+104
+00:07:10,961 --> 00:07:13,781
+Entonces rompió su libertad
+condicional y se largó a Europa.
+
+105
+00:07:13,981 --> 00:07:16,741
+Usted no sintió como si no
+hubiera pasado el tiempo,
+
+106
+00:07:17,241 --> 00:07:19,565
+que a pesar de todo
+el desamor y la amargura,
+
+107
+00:07:19,965 --> 00:07:23,481
+¿todavía se podía encontrar una
+pequeña brasa que reavivar?
+
+108
+00:07:23,681 --> 00:07:24,773
+Tengo que decirlo, jefe,
+
+109
+00:07:24,973 --> 00:07:26,993
+que tiene una
+graciosa curiosidad.
+
+110
+00:07:27,293 --> 00:07:28,677
+Soy Policía.
+
+111
+00:07:28,877 --> 00:07:30,506
+Siento curiosidad por todo,
+
+112
+00:07:31,106 --> 00:07:34,480
+especialmente sobre hombres
+con armas, buscando problemas...
+
+113
+00:07:34,680 --> 00:07:36,089
+o quizás ese bulto en su abrigo...
+
+114
+00:07:36,289 --> 00:07:37,848
+es una paleta para la niña.
+
+115
+00:07:38,048 --> 00:07:39,588
+Estoy buscando a alguien,
+eso es todo.
+
+116
+00:07:39,888 --> 00:07:40,682
+Entonces, lo he confundido...
+
+117
+00:07:40,882 --> 00:07:42,462
+con el tipo de hombre
+que presta atención.
+
+118
+00:07:42,662 --> 00:07:44,316
+No sabría decirle qué
+clase de hombre soy...
+
+119
+00:07:44,516 --> 00:07:46,682
+aparte de que
+cumplo mis promesas,
+
+120
+00:07:46,882 --> 00:07:49,420
+especialmente cuando
+me pagan por ello.
+
+121
+00:07:51,030 --> 00:07:53,050
+Mi consejo...
+
+122
+00:07:53,350 --> 00:07:55,804
+lleve a la niña de vuelta
+a los Estados Unidos.
+
+123
+00:07:56,004 --> 00:07:57,892
+Si Philippe Saint-Andre
+es su padre,
+
+124
+00:07:58,392 --> 00:07:59,658
+es mejor que sea huérfana.
+
+125
+00:07:59,858 --> 00:08:01,604
+De todos modos,
+necesito encontrarlo.
+
+126
+00:08:01,804 --> 00:08:05,495
+Y de todos modos,
+sugiero, educadamente,
+
+127
+00:08:05,695 --> 00:08:07,267
+que busque en otra parte.
+
+128
+00:08:07,968 --> 00:08:10,153
+<i>GENDARMERÍA NACIONAL</i>
+
+129
+00:08:21,946 --> 00:08:23,319
+<i>¿Quién es ese?</i>
+
+130
+00:08:23,885 --> 00:08:25,570
+Samuel Spade.
+
+131
+00:08:25,871 --> 00:08:29,222
+<i>- ¿Quién es Samuel Spade?
+- Un estadounidense.</i>
+
+132
+00:08:43,923 --> 00:08:45,708
+<i>Samuel Spade...</i>
+
+133
+00:08:46,109 --> 00:08:48,131
+<i>Un jodido estúpido nombre.</i>
+
+134
+00:09:11,813 --> 00:09:13,828
+¿Cómo la llamas?
+
+135
+00:09:15,034 --> 00:09:16,040
+¿Tiene nombre?
+
+136
+00:09:16,240 --> 00:09:20,344
+Betty Bertha.
+Mamá la hizo.
+
+137
+00:09:58,495 --> 00:10:00,902
+Parece que va a llover.
+
+138
+00:10:05,415 --> 00:10:08,606
+También suena a lluvia.
+
+139
+00:10:29,460 --> 00:10:32,302
+Puedes terminar eso en el auto.
+
+140
+00:12:20,347 --> 00:12:23,581
+No iremos a ninguna parte
+por un rato.
+
+141
+00:12:26,157 --> 00:12:29,348
+Será mejor que durmamos un poco.
+
+142
+00:14:09,717 --> 00:14:10,867
+<i>Buenos días, señor.</i>
+
+143
+00:14:11,368 --> 00:14:14,438
+<i>¿Chocó o montó una trampa
+para los viajeros desprevenidos?</i>
+
+144
+00:14:14,638 --> 00:14:16,526
+Lo siento, no hablo francés.
+
+145
+00:14:16,926 --> 00:14:19,120
+- ¿Estadounidense?
+- Desde que nací.
+
+146
+00:14:20,020 --> 00:14:23,446
+¿Supongo que no sabe cómo
+arreglar uno de estos?
+
+147
+00:14:23,646 --> 00:14:24,839
+Siempre tuve la impresión...
+
+148
+00:14:25,139 --> 00:14:27,376
+de que uno simplemente los tiraba.
+
+149
+00:14:27,576 --> 00:14:29,812
+Bueno, ¡hola!
+
+150
+00:14:30,012 --> 00:14:31,940
+¿Los llevo a usted y a su hija
+de vuelta al pueblo?
+
+151
+00:14:32,140 --> 00:14:34,103
+Ella no es mi hija,
+y sería genial...
+
+152
+00:14:34,303 --> 00:14:35,966
+si pudiera llevarnos a otro sitio
+que no sea el pueblo.
+
+153
+00:14:36,166 --> 00:14:37,925
+Comprendo. Por favor.
+
+154
+00:14:38,325 --> 00:14:39,560
+Carlomagno puede ir atrás.
+
+155
+00:14:40,460 --> 00:14:43,389
+No me atrevería.
+
+156
+00:14:55,659 --> 00:14:57,609
+¿Primera vez en un Rolls-Royce?
+
+157
+00:14:57,809 --> 00:15:01,043
+Primera vez en uno
+que huele a rosas.
+
+158
+00:15:01,783 --> 00:15:03,715
+He estado trabajando
+en el jardín.
+
+159
+00:15:03,915 --> 00:15:05,151
+Nunca se me dio.
+
+160
+00:15:05,651 --> 00:15:07,627
+Encuentro que
+el agua es la clave.
+
+161
+00:15:07,927 --> 00:15:11,723
+Y ahora me lo dice.
+
+162
+00:15:11,923 --> 00:15:14,334
+Habla un inglés perfecto.
+
+163
+00:15:14,534 --> 00:15:16,640
+Tuve un buen Profesor.
+
+164
+00:15:16,840 --> 00:15:18,250
+Otro talento del que carezco.
+
+165
+00:15:18,550 --> 00:15:21,265
+- ¿Enseñar?
+- Aprender.
+
+166
+00:15:21,665 --> 00:15:22,867
+Sólo tiene que ser
+enseñado por alguien...
+
+167
+00:15:23,067 --> 00:15:24,865
+a quien quiera escuchar.
+
+168
+00:15:26,165 --> 00:15:29,877
+Soy todo oídos.
+
+169
+00:15:35,405 --> 00:15:38,517
+<i>BOZOULS, FRANCIA</i>
+
+170
+00:15:38,717 --> 00:15:42,796
+<i>8 AÑOS MÁS TARDE</i>
+
+171
+00:16:10,687 --> 00:16:15,914
+<i>GABRIELLE SPADE
+1903-1961</i>
+
+172
+00:16:20,969 --> 00:16:22,424
+<i>Hola, señor Spade.</i>
+
+173
+00:16:24,045 --> 00:16:25,534
+Madame Huchet.
+
+174
+00:16:26,035 --> 00:16:29,467
+<i>¿Venimos por ellos o
+por nosotros mismos?</i>
+
+175
+00:16:30,068 --> 00:16:31,689
+<i>Buena pregunta.</i>
+
+176
+00:16:34,698 --> 00:16:36,373
+<i>¿Señor Spade?</i>
+
+177
+00:16:37,271 --> 00:16:39,430
+<i>Philippe Saint-Andre ha regresado.</i>
+
+178
+00:16:39,839 --> 00:16:40,769
+<i>¿Lo ha visto?</i>
+
+179
+00:16:40,969 --> 00:16:43,403
+<i>No tengo que verlo,
+para saber que está aquí.</i>
+
+180
+00:16:48,912 --> 00:16:52,966
+<i>El doctor dijo:
+"Sé valiente, pronto acabará. "</i>
+
+181
+00:16:54,626 --> 00:16:58,185
+<i>El hombre dijo, lo menos que pudo
+hacer Doc., era quitarse el anillo.</i>
+
+182
+00:16:59,100 --> 00:17:02,071
+<i>¿Anillo?
+Dijo el doctor,</i>
+
+183
+00:17:02,271 --> 00:17:04,886
+<i>ese era mi reloj.</i>
+
+184
+00:17:05,324 --> 00:17:07,226
+<i>Nunca pasa de moda.</i>
+
+185
+00:17:08,027 --> 00:17:09,534
+<i>¡Dios mío...</i>
+
+186
+00:17:10,066 --> 00:17:11,066
+¿Qué?
+
+187
+00:17:11,290 --> 00:17:15,007
+<i>Creo que hallé a
+Saint-Exupéry aquí.</i>
+
+188
+00:17:16,208 --> 00:17:18,980
+<i>¿Y qué tal mi jodida dignidad?</i>
+
+189
+00:17:19,181 --> 00:17:21,725
+<i>Soy sólo un doctor, no hago milagros.</i>
+
+190
+00:17:26,537 --> 00:17:28,651
+<i>La mejor próstata que haya
+visto en esta mañana.</i>
+
+191
+00:17:29,726 --> 00:17:31,578
+<i>¿Y el resto de mi persona?</i>
+
+192
+00:17:35,182 --> 00:17:37,979
+Hablemos en mi oficina.
+
+193
+00:17:43,003 --> 00:17:45,453
+<i>¿Ves esto?</i>
+
+194
+00:17:45,762 --> 00:17:48,908
+Tienes las primeras
+fases de un enfisema.
+
+195
+00:17:51,040 --> 00:17:52,838
+¿Qué quiere decir?
+
+196
+00:17:54,274 --> 00:17:56,681
+Tienes que dejar de fumar.
+
+197
+00:17:58,047 --> 00:17:59,979
+Olvida lo que lees,
+
+198
+00:18:00,179 --> 00:18:03,939
+olvida los anuncios de televisión,
+con las chicas sexys.
+
+199
+00:18:04,239 --> 00:18:08,126
+Los cigarrillos son
+malos para tu salud.
+
+200
+00:18:14,574 --> 00:18:15,215
+¿Me estoy muriendo?
+
+201
+00:18:15,415 --> 00:18:18,518
+No, pero te estás matando.
+
+202
+00:18:19,488 --> 00:18:21,247
+¿Cuánto tiempo tengo?
+
+203
+00:18:21,447 --> 00:18:22,918
+Depende de ti.
+
+204
+00:18:23,118 --> 00:18:25,093
+Detente ahora,
+y vivirás otros 30 años.
+
+205
+00:18:25,593 --> 00:18:28,571
+No pares, y sí,
+vivirás otros 30 años,
+
+206
+00:18:28,771 --> 00:18:31,656
+pero estarás en una
+tienda de oxígeno.
+
+207
+00:18:32,849 --> 00:18:35,605
+Por lo demás,
+estás en buena forma.
+
+208
+00:18:36,461 --> 00:18:38,607
+Enfisema.
+
+209
+00:18:39,882 --> 00:18:42,767
+Eso no es bonito.
+
+210
+00:18:48,368 --> 00:18:50,040
+<i>¿Todo bien?</i>
+
+211
+00:19:05,355 --> 00:19:06,713
+<i>¿Cómo está?</i>
+
+212
+00:19:07,114 --> 00:19:08,915
+<i>Nuestro hijo, Eric, se muda.</i>
+
+213
+00:19:09,115 --> 00:19:10,554
+<i>Ya era jodida hora, yo digo.</i>
+
+214
+00:19:11,555 --> 00:19:13,802
+<i>A París.
+A estar con una mujer.</i>
+
+215
+00:19:14,607 --> 00:19:16,312
+<i>¿Tal vez usted la podría investigar?</i>
+
+216
+00:19:26,445 --> 00:19:28,069
+<i>- Buen día.
+- ¡Buen día!</i>
+
+217
+00:20:17,051 --> 00:20:18,533
+<i>¿Puedo ayudarlo, señor?</i>
+
+218
+00:20:19,334 --> 00:20:21,283
+<i>- Es nueva aquí.
+- Sí.</i>
+
+219
+00:20:21,584 --> 00:20:25,149
+<i>- Soy la Hermana Angelique.
+- Me llamo Sam Spade.</i>
+
+220
+00:20:27,660 --> 00:20:31,540
+<i>Mi reputación me precede.</i>
+
+221
+00:20:31,941 --> 00:20:33,632
+<i>He oído a Teresa mencionarlo
+a usted.</i>
+
+222
+00:20:34,033 --> 00:20:35,778
+<i>¿Mi nombre? ¿Teresa?</i>
+
+223
+00:20:45,994 --> 00:20:47,570
+<i>Gracias.</i>
+
+224
+00:20:57,346 --> 00:20:59,064
+<i>¡Hola, señor Spade!</i>
+
+225
+00:21:10,712 --> 00:21:12,416
+<i>Un buen trabajo.</i>
+
+226
+00:21:23,618 --> 00:21:26,073
+¿Señor Spade?
+
+227
+00:21:26,373 --> 00:21:29,554
+Me alegro de verle, maestro.
+
+228
+00:21:29,754 --> 00:21:33,597
+Como siempre, siéntese.
+
+229
+00:21:37,879 --> 00:21:40,025
+¿Un cigarrillo?
+
+230
+00:21:41,678 --> 00:21:43,132
+¿No le importa si yo
+me fumo uno?
+
+231
+00:21:43,532 --> 00:21:46,939
+No, si promete soplar
+el humo en mi dirección.
+
+232
+00:21:51,757 --> 00:21:54,995
+Sus campanas están un poco
+atrasadas, yo tengo 10:24 a. m.
+
+233
+00:21:55,395 --> 00:21:57,592
+Desde hace más de 300 años,
+
+234
+00:21:57,792 --> 00:21:59,159
+las Hermanas subimos a la torre...
+
+235
+00:21:59,559 --> 00:22:01,479
+y tocábamos las campanas a mano.
+
+236
+00:22:01,679 --> 00:22:03,394
+Entonces, llega un
+vendedor el mes pasado...
+
+237
+00:22:03,594 --> 00:22:06,484
+y me convence de automatizar
+nuestras campanas.
+
+238
+00:22:06,684 --> 00:22:08,444
+El mecanismo fue instalado
+el viernes pasado.
+
+239
+00:22:08,654 --> 00:22:12,054
+Desde entonces, las campanas
+suenan cuando quieren.
+
+240
+00:22:12,254 --> 00:22:14,392
+Tal vez sea mejor que
+no sepamos exactamente...
+
+241
+00:22:14,592 --> 00:22:16,133
+cuánto tiempo nos queda.
+
+242
+00:22:16,333 --> 00:22:19,179
+Sólo si no está pastoreando niños
+del día hasta la noche.
+
+243
+00:22:19,679 --> 00:22:21,045
+¿Cómo están los niños?
+
+244
+00:22:21,445 --> 00:22:24,981
+Gracias al Señor,
+muy sanos y felices,
+
+245
+00:22:25,181 --> 00:22:30,329
+aunque,
+algunos prefieren su soledad.
+
+246
+00:22:30,725 --> 00:22:33,179
+Hay mucho que decir
+sobre la soledad.
+
+247
+00:22:33,479 --> 00:22:36,757
+Dios la ama y
+la mantiene a salvo.
+
+248
+00:22:37,688 --> 00:22:40,835
+Por sus esfuerzos de Él
+y los suyos.
+
+249
+00:22:42,240 --> 00:22:45,246
+Como siempre, le estamos muy
+agradecidos, señor Spade.
+
+250
+00:22:45,446 --> 00:22:46,900
+Hace mucho tiempo,
+alguien me dijo...
+
+251
+00:22:47,400 --> 00:22:50,394
+que el dinero y la gratitud
+no siempre van de la mano.
+
+252
+00:22:50,594 --> 00:22:53,054
+Alguien cínico, sin duda.
+
+253
+00:22:53,254 --> 00:22:55,490
+Eran los únicos "alguien"
+que conocía entonces.
+
+254
+00:22:55,890 --> 00:22:57,474
+Hablando del pasado,
+
+255
+00:22:57,774 --> 00:23:00,638
+su padre vuelve
+a casa a Bozouls.
+
+256
+00:23:00,838 --> 00:23:02,410
+No me diga.
+
+257
+00:23:02,610 --> 00:23:04,934
+Supuse que estaba muerto,
+
+258
+00:23:05,434 --> 00:23:07,192
+pero los muertos
+no escriben cartas.
+
+259
+00:23:07,492 --> 00:23:09,150
+Ha escrito varias,
+
+260
+00:23:09,350 --> 00:23:10,736
+todas confirmadas por su madre...
+
+261
+00:23:10,936 --> 00:23:12,781
+que son de la propia
+mano de Philippe.
+
+262
+00:23:12,981 --> 00:23:14,957
+¿Ha hablado con
+Madame Saint-Andre?
+
+263
+00:23:15,357 --> 00:23:17,133
+Audrey se ha vuelto muy atenta...
+
+264
+00:23:17,333 --> 00:23:18,481
+con su nieta.
+
+265
+00:23:19,081 --> 00:23:21,410
+Una vez a la semana,
+le trae ropa...
+
+266
+00:23:21,610 --> 00:23:23,021
+que ella misma ha tejido.
+
+267
+00:23:23,421 --> 00:23:27,351
+¿No pensó que tal vez esto,
+era algo que yo debería saber?
+
+268
+00:23:30,488 --> 00:23:33,900
+Se lo digo ahora,
+para que sea consciente...
+
+269
+00:23:34,100 --> 00:23:35,336
+de que él pronto estará aquí.
+
+270
+00:23:35,536 --> 00:23:37,618
+Audrey podría haber escrito
+esas cartas ella misma.
+
+271
+00:23:37,818 --> 00:23:38,818
+¿Con qué propósito?
+
+272
+00:23:39,206 --> 00:23:40,168
+La chica es rica.
+
+273
+00:23:40,368 --> 00:23:43,083
+Supongo que se refiere
+espiritualmente.
+
+274
+00:23:43,283 --> 00:23:45,477
+Esto no es exactamente
+el Hotel Georges V.
+
+275
+00:23:45,777 --> 00:23:47,274
+Hay un fondo fiduciario
+lleno de dinero...
+
+276
+00:23:47,474 --> 00:23:49,481
+que sólo puede describirse
+cómo mal habido.
+
+277
+00:23:49,681 --> 00:23:52,832
+Cada centavo va a Teresa
+cuando cumpla 18 años,
+
+278
+00:23:53,032 --> 00:23:54,354
+lo que estoy seguro
+que Philippe sabía,
+
+279
+00:23:54,554 --> 00:23:56,213
+dado su papel en la
+separación de dicho dinero...
+
+280
+00:23:56,413 --> 00:23:59,429
+de sus legítimos propietarios.
+
+281
+00:24:02,109 --> 00:24:04,364
+¿Philippe Saint-Andre
+es un ladrón?
+
+282
+00:24:04,564 --> 00:24:05,888
+Vaya sorpresa.
+
+283
+00:24:06,288 --> 00:24:08,773
+Robó el dinero con la ayuda
+de la madre de Teresa,
+
+284
+00:24:08,973 --> 00:24:10,444
+quien aparentemente conocía a
+Philippe lo suficientemente bien...
+
+285
+00:24:10,644 --> 00:24:12,724
+para poner el dinero a nombre
+de Teresa y no al suyo.
+
+286
+00:24:13,120 --> 00:24:17,321
+¿Y cómo estuvo involucrado
+en esto, señor Spade?
+
+287
+00:24:17,521 --> 00:24:19,104
+Periféricamente.
+
+288
+00:24:19,504 --> 00:24:21,206
+Philippe siempre ha
+negado la paternidad...
+
+289
+00:24:21,406 --> 00:24:23,208
+y hasta evidentemente,
+muy recientemente,
+
+290
+00:24:23,408 --> 00:24:24,775
+su madre nunca ha reconocido...
+
+291
+00:24:24,975 --> 00:24:26,559
+la existencia de su nieta.
+
+292
+00:24:26,759 --> 00:24:29,735
+Pero, ahora que Teresa
+se acerca a los 18 años,
+
+293
+00:24:30,335 --> 00:24:33,229
+¿él escribe cartas
+y ella teje ropa?
+
+294
+00:24:33,429 --> 00:24:35,423
+La guerra cambió a mucha gente.
+
+295
+00:24:35,623 --> 00:24:36,859
+A muy pocos para mejor.
+
+296
+00:24:37,559 --> 00:24:40,602
+Abuela Audrey
+está tramando algo.
+
+297
+00:24:40,802 --> 00:24:42,429
+Siempre esperé que,
+
+298
+00:24:42,829 --> 00:24:45,110
+con el tiempo,
+Teresa se encariñaría con usted.
+
+299
+00:24:45,310 --> 00:24:46,942
+Envié a su madre a
+pudrirse en la cárcel...
+
+300
+00:24:47,142 --> 00:24:49,162
+y a su padre a morir en Argelia.
+
+301
+00:24:49,662 --> 00:24:50,785
+Va a ser una larga espera.
+
+302
+00:24:50,985 --> 00:24:53,048
+Pero ella sabe que se
+preocupa por ella.
+
+303
+00:24:53,248 --> 00:24:55,616
+Mantener una promesa no es
+lo mismo que preocuparse.
+
+304
+00:24:55,916 --> 00:24:58,588
+Lo que prometí fue llevar
+a la niña a Bozouls.
+
+305
+00:24:59,088 --> 00:25:02,010
+Sí, bueno,
+como dice el buen libro,
+
+306
+00:25:02,210 --> 00:25:05,521
+"el que promete se endeuda. "
+
+307
+00:25:05,721 --> 00:25:08,346
+¿Es del Antiguo Testamento
+o del Nuevo?
+
+308
+00:25:08,755 --> 00:25:09,904
+El Talmud.
+
+309
+00:25:10,404 --> 00:25:12,298
+¿No estamos llenos de
+nuestras propias sorpresas?
+
+310
+00:25:12,498 --> 00:25:17,820
+Disfruto tanto de nuestras charlas,
+mi querido señor Spade.
+
+311
+00:25:36,329 --> 00:25:39,146
+¿Qué hace?
+Ya arreglé el lavavajillas.
+
+312
+00:25:39,346 --> 00:25:41,534
+<i>Con mis manos es mejor.</i>
+
+313
+00:25:47,761 --> 00:25:48,680
+<i>¿Verduras frescas?</i>
+
+314
+00:25:48,880 --> 00:25:51,261
+Estoy en racha saludable.
+
+315
+00:25:51,462 --> 00:25:52,943
+<i>Yo puedo cocinar.</i>
+
+316
+00:25:53,513 --> 00:25:54,513
+Yo también.
+
+317
+00:25:54,943 --> 00:25:57,468
+<i>Conozco esta cocina mejor
+que usted.</i>
+
+318
+00:25:58,276 --> 00:25:59,678
+Lo siento, no le entendí.
+
+319
+00:25:59,878 --> 00:26:00,910
+¿Puede hablar inglés?
+
+320
+00:26:01,311 --> 00:26:02,584
+<i>Estamos en Francia.</i>
+
+321
+00:26:03,485 --> 00:26:06,164
+<i>Usted odia cuando yo
+hablo en francés.</i>
+
+322
+00:26:06,565 --> 00:26:09,353
+<i>He oído cuervos con
+mejores acentos.</i>
+
+323
+00:26:15,459 --> 00:26:18,169
+Hágame un favor y comience
+a cerrar las puertas.
+
+324
+00:26:18,570 --> 00:26:20,818
+<i>Nunca hemos cerrado las puertas.</i>
+
+325
+00:26:21,019 --> 00:26:23,530
+<i>Cerrar puertas sólo es una
+invitación a los problemas.</i>
+
+326
+00:26:23,730 --> 00:26:26,434
+Sí, bueno, este problema
+no necesita invitación.
+
+327
+00:26:26,635 --> 00:26:29,059
+<i>Se refiere al regreso de
+Philippe Saint-Andre.</i>
+
+328
+00:26:29,861 --> 00:26:31,449
+No parece muy preocupada.
+
+329
+00:26:32,350 --> 00:26:34,559
+<i>Porque no lo estoy.</i>
+
+330
+00:26:34,759 --> 00:26:37,602
+<i>Después de todo, no es a mí
+a quien quiere ver muerta.</i>
+
+331
+00:28:13,098 --> 00:28:14,350
+¿Te gustaría ganar
+unos honorarios...
+
+332
+00:28:14,550 --> 00:28:17,048
+además de lo que ya te pagan?
+
+333
+00:28:17,248 --> 00:28:19,255
+¿Haciendo qué exactamente?
+
+334
+00:28:19,455 --> 00:28:21,431
+Lo que vas a hacer
+de todos modos,
+
+335
+00:28:21,631 --> 00:28:23,303
+hablar con Philippe Saint-Andre.
+
+336
+00:28:23,503 --> 00:28:25,521
+¿Sólo hablar con él?
+
+337
+00:28:25,721 --> 00:28:27,349
+Me está chantajeando.
+
+338
+00:28:27,549 --> 00:28:30,609
+¿Por qué?
+¿Por matar a tu marido?
+
+339
+00:28:32,293 --> 00:28:34,705
+De acuerdo.
+
+340
+00:28:34,905 --> 00:28:36,403
+Mi marido era un Nazi.
+
+341
+00:28:36,603 --> 00:28:38,273
+¿Era alemán?
+
+342
+00:28:38,473 --> 00:28:41,582
+Peor aún, era francés.
+
+343
+00:28:41,782 --> 00:28:43,584
+Jacques era un colaborador.
+
+344
+00:28:43,984 --> 00:28:47,414
+¿Y Philippe amenaza con
+contárselo a las autoridades?
+
+345
+00:28:47,614 --> 00:28:48,805
+No sólo a ellos,
+
+346
+00:28:49,005 --> 00:28:51,504
+los periódicos,
+la prensa internacional.
+
+347
+00:28:51,704 --> 00:28:52,940
+¿Por qué les importaría?
+
+348
+00:28:53,240 --> 00:28:54,507
+Estoy seguro de que
+muchos partidarios...
+
+349
+00:28:54,707 --> 00:28:57,771
+mataron a muchos colaboradores
+Nazis, por aquel entonces.
+
+350
+00:28:57,971 --> 00:28:58,815
+Y a sus hijos.
+
+351
+00:28:59,015 --> 00:29:00,252
+Eso fue hace 10 años.
+
+352
+00:29:00,452 --> 00:29:02,379
+¿Qué es diferente ahora?
+
+353
+00:29:03,349 --> 00:29:04,803
+Argelia.
+
+354
+00:29:05,003 --> 00:29:07,127
+Detener a Hitler era algo en lo
+que todos podíamos estar de acuerdo...
+
+355
+00:29:07,327 --> 00:29:09,956
+de que valía la pena
+costase lo que costase.
+
+356
+00:29:10,356 --> 00:29:11,958
+Sin embargo,
+hay mucho menos acuerdo...
+
+357
+00:29:12,158 --> 00:29:14,002
+sobre nuestro
+reciente conflicto.
+
+358
+00:29:14,302 --> 00:29:15,743
+Y ciertamente no ayuda...
+
+359
+00:29:15,943 --> 00:29:18,964
+cuando ambos bandos se enzarzan
+en una competición enfermiza,
+
+360
+00:29:19,364 --> 00:29:22,511
+cometiendo una
+atrocidad tras otra.
+
+361
+00:29:25,387 --> 00:29:26,666
+Crecí pensando...
+
+362
+00:29:26,966 --> 00:29:30,117
+que cuando mi familia iba
+de vacaciones a Laurent,
+
+363
+00:29:30,417 --> 00:29:32,002
+íbamos a otra parte de Francia.
+
+364
+00:29:32,202 --> 00:29:34,870
+¿Y qué sientes
+ahora al respecto?
+
+365
+00:29:35,614 --> 00:29:38,504
+Sólo importa lo que la
+gente piense que siento.
+
+366
+00:29:38,804 --> 00:29:39,779
+Al igual que no importa...
+
+367
+00:29:39,979 --> 00:29:40,846
+que Jacques tuviera
+que ser castigado...
+
+368
+00:29:41,046 --> 00:29:42,805
+por traicionar a
+su ciudad natal,
+
+369
+00:29:43,505 --> 00:29:46,513
+por ayudar en el sufrimiento
+de sus viejos amigos,
+
+370
+00:29:46,713 --> 00:29:48,427
+sólo para poder dormir
+en su propia cama,
+
+371
+00:29:48,627 --> 00:29:50,560
+seguir haciendo su vino,
+
+372
+00:29:51,060 --> 00:29:54,076
+o conducir su auto
+color burdeos.
+
+373
+00:29:54,768 --> 00:29:56,808
+Pero ahora, después de esta
+guerra, si eres francés,
+
+374
+00:29:57,257 --> 00:29:58,107
+lo único que importa...
+
+375
+00:29:58,307 --> 00:29:59,846
+es que nosotros
+mismos nos castigamos.
+
+376
+00:30:00,046 --> 00:30:02,000
+¿Nosotros?
+¿Eso significa que Philippe...
+
+377
+00:30:02,200 --> 00:30:04,176
+está chantajeando a
+alguien más que a ti?
+
+378
+00:30:04,576 --> 00:30:05,873
+Se trata de mí.
+
+379
+00:30:06,073 --> 00:30:09,916
+No quiero que la gente en Bozouls
+se involucre, por favor.
+
+380
+00:30:11,165 --> 00:30:12,100
+No permitiré que
+la gente de por aquí...
+
+381
+00:30:12,300 --> 00:30:14,233
+vuelva a vivir
+semejante miseria,
+
+382
+00:30:14,633 --> 00:30:15,556
+qué es lo que sucederá...
+
+383
+00:30:15,756 --> 00:30:18,080
+sí Philippe cumple sus amenazas.
+
+384
+00:30:18,480 --> 00:30:21,283
+No tienen miedo a la cárcel.
+
+385
+00:30:21,683 --> 00:30:24,329
+Tienen miedo de ser recordados
+cómo criminales de guerra,
+
+386
+00:30:24,529 --> 00:30:26,592
+especialmente por sus hijos.
+
+387
+00:30:26,792 --> 00:30:28,333
+Me gustaría ayudarte,
+
+388
+00:30:28,533 --> 00:30:30,509
+pero si voy a cobrar
+mis honorarios actuales,
+
+389
+00:30:30,809 --> 00:30:33,652
+tengo que resolver
+qué hacer con ella.
+
+390
+00:30:34,875 --> 00:30:37,285
+Hombre de conciencia.
+Lo comprendo.
+
+391
+00:30:37,485 --> 00:30:40,110
+Hombre de muchas deudas,
+más bien.
+
+392
+00:30:40,719 --> 00:30:41,719
+Para ser honesto contigo,
+
+393
+00:30:41,994 --> 00:30:43,230
+cuanto antes la entregue,
+
+394
+00:30:43,630 --> 00:30:45,680
+antes podré seguir adelante.
+
+395
+00:30:45,880 --> 00:30:47,246
+Tengo una idea al respecto,
+
+396
+00:30:47,446 --> 00:30:50,397
+que me llevará
+unos días arreglar.
+
+397
+00:30:50,597 --> 00:30:53,052
+Tal vez pueda pagarte
+sólo por pensar...
+
+398
+00:30:53,352 --> 00:30:56,111
+sobre cómo puedo hacer
+frente a esta situación...
+
+399
+00:30:56,311 --> 00:30:57,913
+sin matar a nadie.
+
+400
+00:30:58,113 --> 00:30:59,149
+Hay muchas maneras...
+
+401
+00:30:59,349 --> 00:31:01,239
+de deshacerse de un hombre,
+sin matarlo,
+
+402
+00:31:01,739 --> 00:31:04,233
+especialmente cuando
+hay una guerra.
+
+403
+00:31:04,890 --> 00:31:06,561
+Interesante.
+
+404
+00:31:06,961 --> 00:31:09,634
+Su Alguacil local lo
+dejó bastante claro,
+
+405
+00:31:10,034 --> 00:31:13,136
+quiere que elija otro
+lugar para estar.
+
+406
+00:31:14,707 --> 00:31:17,245
+Así que quédate conmigo.
+
+407
+00:31:17,902 --> 00:31:20,091
+En la casa de carruajes.
+
+408
+00:31:45,794 --> 00:31:48,069
+Hola.
+
+409
+00:31:48,778 --> 00:31:50,628
+Me llamo George Fitzsimmons,
+señor.
+
+410
+00:31:50,828 --> 00:31:52,935
+¿Qué puedo hacer por usted,
+señor Fitzsimmons?
+
+411
+00:31:53,135 --> 00:31:55,085
+¿Está Madame LaVarone en casa?
+
+412
+00:31:55,285 --> 00:31:57,217
+No, me temo que no.
+
+413
+00:31:57,917 --> 00:32:00,928
+¿Alguna idea de
+cuándo podría volver?
+
+414
+00:32:01,128 --> 00:32:02,234
+Cuando el sol se enfríe.
+
+415
+00:32:02,834 --> 00:32:04,479
+¿Cómo dice?
+
+416
+00:32:04,679 --> 00:32:07,565
+Ella ya falleció.
+
+417
+00:32:09,918 --> 00:32:11,272
+Ya veo.
+
+418
+00:32:11,472 --> 00:32:13,361
+No venderé.
+
+419
+00:32:13,861 --> 00:32:16,056
+Bien,
+y yo no estoy comprando.
+
+420
+00:32:16,256 --> 00:32:18,119
+Nunca podría costearme
+una propiedad tan bonita.
+
+421
+00:32:18,319 --> 00:32:20,378
+Ya somos dos.
+
+422
+00:32:20,626 --> 00:32:22,676
+¿Qué querías de mi esposa?
+
+423
+00:32:22,876 --> 00:32:24,939
+¿Esposa?
+
+424
+00:32:25,339 --> 00:32:26,301
+¡Dios!
+
+425
+00:32:26,501 --> 00:32:28,129
+Soy un idiota.
+
+426
+00:32:28,729 --> 00:32:29,335
+Mis condolencias.
+
+427
+00:32:29,535 --> 00:32:30,366
+Yo...
+Lo... lo siento mucho.
+
+428
+00:32:30,566 --> 00:32:31,685
+No tenía ni idea de que
+ella se había vuelto a casar.
+
+429
+00:32:31,885 --> 00:32:32,859
+¿La conocías?
+
+430
+00:32:33,059 --> 00:32:34,817
+Sí, de hace bastante tiempo.
+
+431
+00:32:35,617 --> 00:32:39,108
+Un niño justo después
+de la Guerra Mundial.
+
+432
+00:32:39,308 --> 00:32:42,247
+Verá,
+mi padre era pintor de paisajes.
+
+433
+00:32:42,447 --> 00:32:43,931
+Syngin Fitzsimmons.
+
+434
+00:32:45,183 --> 00:32:48,078
+Bueno, Madame LaVarone le
+permitió pintar en la finca.
+
+435
+00:32:48,278 --> 00:32:49,296
+El... el barranco.
+
+436
+00:32:49,896 --> 00:32:52,438
+El viñedo y las vacas.
+
+437
+00:32:52,638 --> 00:32:55,346
+Sí. Hay un cuadro
+colgado en la biblioteca.
+
+438
+00:32:55,546 --> 00:32:58,467
+Sí, es un regalo de
+gratitud de mi padre.
+
+439
+00:32:59,022 --> 00:33:02,129
+Verá, vivimos en la casa de carruajes
+durante tres meses.
+
+440
+00:33:02,329 --> 00:33:03,553
+Aún recuerdo el día
+en qué partimos.
+
+441
+00:33:03,753 --> 00:33:06,512
+Estaba desolado, sollozando.
+
+442
+00:33:06,912 --> 00:33:07,874
+Me encantaba estar aquí.
+
+443
+00:33:08,074 --> 00:33:11,342
+Bueno, a decir verdad,
+
+444
+00:33:11,542 --> 00:33:14,432
+se me encogió un poco
+el corazón por la Madame.
+
+445
+00:33:14,832 --> 00:33:16,852
+Comprensible.
+
+446
+00:33:17,052 --> 00:33:18,494
+Me pregunto señor...
+
+447
+00:33:18,694 --> 00:33:20,208
+Spade.
+
+448
+00:33:20,408 --> 00:33:22,184
+Gabrielle Spade.
+Vaya.
+
+449
+00:33:22,384 --> 00:33:23,924
+¿Se preguntaba qué,
+señor Fitzsimmons?
+
+450
+00:33:24,324 --> 00:33:25,430
+Es...
+
+451
+00:33:25,830 --> 00:33:27,633
+Bueno,
+ahora también soy artista.
+
+452
+00:33:27,833 --> 00:33:30,462
+Y quieres pintar aquí.
+
+453
+00:33:30,962 --> 00:33:35,118
+¿Si mi presencia
+no molesta demasiado?
+
+454
+00:33:35,318 --> 00:33:36,585
+En lo absoluto.
+
+455
+00:33:36,785 --> 00:33:38,587
+Acomódate cuando quieras.
+
+456
+00:33:38,887 --> 00:33:40,906
+Mientras estés callado
+y nunca te vea.
+
+457
+00:33:41,106 --> 00:33:43,939
+Bien, considéreme una
+vaca más en el prado.
+
+458
+00:33:44,139 --> 00:33:45,536
+Vendimos a las vacas...
+
+459
+00:33:45,736 --> 00:33:47,075
+justo después de que la
+casa de carruajes...
+
+460
+00:33:47,275 --> 00:33:49,143
+se quemara hasta los cimientos.
+
+461
+00:33:59,408 --> 00:34:03,513
+Siempre te gustaron
+los perros callejeros.
+
+462
+00:34:07,699 --> 00:34:11,485
+<i>El Presidente Kennedy fue muy claro:</i>
+
+463
+00:34:11,685 --> 00:34:14,122
+<i>Estados Unidos tiene 10 años para
+poner a un hombre en la Luna.</i>
+
+464
+00:34:14,322 --> 00:34:15,895
+<i>Y para regresarlo sano
+y salvo.</i>
+
+465
+00:34:16,095 --> 00:34:17,089
+El hombre en la Luna.
+
+466
+00:34:17,290 --> 00:34:20,162
+<i>...para construir un cohete
+y sobre todo...</i>
+
+467
+00:34:20,693 --> 00:34:22,137
+¿Para qué demonios?
+
+468
+00:34:23,338 --> 00:34:27,776
+<i>Necesitaremos construir
+el cohete más poderoso...</i>
+
+469
+00:35:28,646 --> 00:35:31,244
+<i>Tal vez deba comprar
+una alfombra nueva.</i>
+
+470
+00:35:34,316 --> 00:35:36,095
+<i>Que sea roja esta vez.</i>
+
+471
+00:35:38,645 --> 00:35:40,969
+Buenos días.
+
+472
+00:35:41,469 --> 00:35:44,223
+Helena...
+
+473
+00:35:45,133 --> 00:35:48,846
+¿podrías pedirle a Henri
+que venga a verme?
+
+474
+00:36:02,585 --> 00:36:04,171
+¿Cómo está, señor Spade?
+
+475
+00:36:04,371 --> 00:36:05,650
+George.
+
+476
+00:36:06,650 --> 00:36:08,222
+¿Qué pasa, Jean-Pierre?
+
+477
+00:36:08,422 --> 00:36:11,660
+¿Te perdiste anoche
+en la oscuridad?
+
+478
+00:36:12,160 --> 00:36:15,485
+Tal vez te olvidaste de que ibas a
+permanecer fuera de mi propiedad.
+
+479
+00:36:15,785 --> 00:36:17,143
+- Tu propiedad...
+- Jesús.
+
+480
+00:36:17,343 --> 00:36:18,884
+¿Has estado sentado
+ahí desde anoche?
+
+481
+00:36:19,484 --> 00:36:21,068
+¿De qué estás hablando?
+No estuve aquí anoche.
+
+482
+00:36:21,268 --> 00:36:22,017
+¿Entonces, quién estuvo?
+
+483
+00:36:22,217 --> 00:36:23,492
+¿Cómo podría saberlo?
+Yo no estaba aquí.
+
+484
+00:36:23,692 --> 00:36:24,568
+Philippe Saint-Andre.
+
+485
+00:36:24,768 --> 00:36:26,439
+¿Le prestaste tu moto?
+
+486
+00:36:26,639 --> 00:36:27,919
+A veces simplemente la toma.
+
+487
+00:36:28,319 --> 00:36:29,685
+Después de todo,
+es un viejo amigo.
+
+488
+00:36:30,385 --> 00:36:34,141
+Con amigos así,
+¿quién necesita amigos?
+
+489
+00:36:34,341 --> 00:36:36,100
+Jean-Pierre.
+
+490
+00:36:36,300 --> 00:36:39,751
+Hay cosas que no
+quieres hacer nunca.
+
+491
+00:36:41,099 --> 00:36:42,627
+Todos hemos oído las historias.
+
+492
+00:36:42,827 --> 00:36:44,716
+Del tipo duro que
+fuiste una vez.
+
+493
+00:36:45,016 --> 00:36:45,904
+No hay tal cosa.
+
+494
+00:36:46,104 --> 00:36:47,993
+Me pregunto...
+
+495
+00:36:48,193 --> 00:36:50,126
+¿Serán historias reales,
+
+496
+00:36:50,426 --> 00:36:53,789
+o sólo cosas que le cuentas
+a una mujer, como mi esposa?
+
+497
+00:36:56,583 --> 00:36:57,606
+Oye, espera,
+
+498
+00:36:57,806 --> 00:37:01,389
+tengo una propuesta de
+negocios para ti, Spade.
+
+499
+00:37:01,672 --> 00:37:02,517
+No te rías de mí.
+
+500
+00:37:02,717 --> 00:37:03,970
+Entonces, no seas ridículo.
+
+501
+00:37:04,170 --> 00:37:06,755
+Lo digo muy en serio.
+Compra mi mitad del club.
+
+502
+00:37:07,255 --> 00:37:09,280
+¿Te refieres a la
+mitad de Marguerite?
+
+503
+00:37:09,480 --> 00:37:11,543
+¿Hablaste con ella de esto?
+
+504
+00:37:12,243 --> 00:37:13,628
+Ella nunca tendría que saberlo.
+
+505
+00:37:13,828 --> 00:37:16,573
+Lo gracioso de los borrachos es
+que creen que tienen sentido.
+
+506
+00:37:16,773 --> 00:37:19,402
+Si me compras, desaparezco.
+
+507
+00:37:19,602 --> 00:37:22,405
+Tendrás todo el club y a mi mujer
+completamente para ti.
+
+508
+00:37:22,605 --> 00:37:24,568
+¿Qué te hace pensar que
+quiero a Marguerite,
+
+509
+00:37:24,768 --> 00:37:26,740
+o que ella me quiere a mí?
+
+510
+00:37:29,623 --> 00:37:31,595
+Piénsalo.
+
+511
+00:37:34,206 --> 00:37:36,038
+Y dile a tu
+viejo amigo Philippe,
+
+512
+00:37:36,238 --> 00:37:37,292
+que si quiere hablar conmigo,
+
+513
+00:37:37,492 --> 00:37:38,892
+puede venir y
+arengarme a la cara...
+
+514
+00:37:39,515 --> 00:37:41,399
+como todo el mundo.
+
+515
+00:37:41,599 --> 00:37:48,671
+<i># Todos los chicos de mi edad
+pasean en pareja por la calle</i>
+
+516
+00:37:49,272 --> 00:37:55,870
+<i># Todos los chicos de mi edad,
+saben lo que es ser felices</i>
+
+517
+00:37:56,070 --> 00:37:57,655
+Hola, señor Spade.
+
+518
+00:37:57,955 --> 00:37:59,482
+Señora Devereux.
+
+519
+00:37:59,682 --> 00:38:00,532
+¿Una copa?
+
+520
+00:38:00,732 --> 00:38:02,273
+Es un poco temprano, ¿no cree?
+
+521
+00:38:02,873 --> 00:38:06,214
+O un poco tarde, según se mire.
+
+522
+00:38:06,414 --> 00:38:08,260
+Anoche me pareció oír la fiesta...
+
+523
+00:38:08,560 --> 00:38:10,354
+- hasta mi casa.
+- ¿No me diga?
+
+524
+00:38:10,554 --> 00:38:12,434
+Pero tal vez eso fue
+sólo usted y Jean-Pierre...
+
+525
+00:38:12,638 --> 00:38:14,614
+tirándose botellas.
+
+526
+00:38:14,914 --> 00:38:16,036
+¿Le ha pegado?
+
+527
+00:38:16,236 --> 00:38:19,340
+Tal vez yo le pegué primero.
+
+528
+00:38:19,831 --> 00:38:21,459
+Puedo cuidar de mí misma.
+
+529
+00:38:21,759 --> 00:38:25,081
+Vino esta mañana en su moto.
+
+530
+00:38:25,777 --> 00:38:29,227
+Por una vez,
+no hablemos de Jean-Pierre.
+
+531
+00:38:29,885 --> 00:38:31,600
+Debería haber venido anoche.
+
+532
+00:38:32,000 --> 00:38:35,756
+Casa llena, ovaciones de pie.
+
+533
+00:38:40,720 --> 00:38:42,697
+¿Segura que esto está bien?
+
+534
+00:38:42,897 --> 00:38:45,917
+Como dije,
+tuvimos la casa llena.
+
+535
+00:38:46,217 --> 00:38:49,843
+Su marido ya piensa
+que robé el negocio.
+
+536
+00:38:50,757 --> 00:38:53,503
+Jean-Pierre cree que robó
+algo más que el lugar.
+
+537
+00:38:53,703 --> 00:38:54,896
+Si tan sólo lo supiera.
+
+538
+00:38:55,096 --> 00:38:58,247
+Pero el club no es suyo.
+El club es mío.
+
+539
+00:38:58,447 --> 00:39:00,292
+"Nuestro".
+
+540
+00:39:00,792 --> 00:39:02,285
+¿Es esto lo que le
+ha hecho estallar?
+
+541
+00:39:02,485 --> 00:39:04,805
+Jean-Pierre no necesita mucho.
+
+542
+00:39:12,693 --> 00:39:13,665
+¿Se siente bien?
+
+543
+00:39:13,865 --> 00:39:16,019
+Estoy bien.
+Mejor que nunca.
+
+544
+00:39:16,219 --> 00:39:18,891
+La otra noche, estoy
+caminando por el cementerio...
+
+545
+00:39:19,291 --> 00:39:21,702
+y lo veo adentro.
+
+546
+00:39:22,202 --> 00:39:24,792
+La noche es un buen
+momento para hacerlo.
+
+547
+00:39:24,992 --> 00:39:27,576
+Debe serlo, ya que está
+allí todas las noches.
+
+548
+00:39:27,876 --> 00:39:30,362
+¿Va al cementerio tan a menudo?
+
+549
+00:39:30,562 --> 00:39:32,838
+Estoy comprando una parcela.
+
+550
+00:39:35,062 --> 00:39:37,514
+Han pasado dos años, Sam.
+
+551
+00:39:38,613 --> 00:39:40,707
+Dejé de mirar
+calendarios y espejos...
+
+552
+00:39:40,907 --> 00:39:43,053
+hace mucho tiempo.
+
+553
+00:40:03,020 --> 00:40:04,181
+<i>¿Lo de siempre?</i>
+
+554
+00:40:04,381 --> 00:40:05,552
+<i>Gracias.</i>
+
+555
+00:40:14,319 --> 00:40:15,432
+<i>Hola, Samuel.</i>
+
+556
+00:40:15,632 --> 00:40:17,908
+Patrice.
+
+557
+00:40:22,833 --> 00:40:24,524
+<i>Quiero un huevo.
+No tan duro,</i>
+
+558
+00:40:24,724 --> 00:40:26,392
+<i>y dos rebanadas de su pan
+tostado de mierda. Solo.</i>
+
+559
+00:40:26,592 --> 00:40:27,336
+<i>¿Qué, está enfermo?</i>
+
+560
+00:40:27,536 --> 00:40:29,202
+<i>Sólo por comer su comida.</i>
+
+561
+00:40:32,922 --> 00:40:34,071
+Estoy cuidando mi peso.
+
+562
+00:40:34,271 --> 00:40:36,634
+¿Cuidando por qué?
+
+563
+00:40:37,339 --> 00:40:39,389
+Puede que quieras prestar
+atención al señor Jean-Pierre...
+
+564
+00:40:39,589 --> 00:40:41,823
+y Madame Marguerite Devereux.
+
+565
+00:40:42,967 --> 00:40:44,290
+Anoche hubo otra batalla real.
+
+566
+00:40:44,790 --> 00:40:45,788
+Lo sé, hablé con ella.
+
+567
+00:40:45,988 --> 00:40:47,480
+A veces desearía que
+se mataran entre ellos...
+
+568
+00:40:47,680 --> 00:40:49,468
+y nos dieran un poco de
+paz al resto de nosotros.
+
+569
+00:40:49,668 --> 00:40:52,429
+Jean-Pierre no ha estado bien,
+desde que le dieron el alta.
+
+570
+00:40:52,729 --> 00:40:53,952
+La guerra ha vuelto a casa.
+
+571
+00:40:54,152 --> 00:40:55,941
+Tarde o temprano,
+siempre lo hace.
+
+572
+00:40:56,141 --> 00:40:58,988
+Este, este fiasco argelino,
+es diferente.
+
+573
+00:40:59,388 --> 00:41:03,147
+Pero Jean-Pierre es un ciudadano
+modelo, comparado con otros.
+
+574
+00:41:03,347 --> 00:41:05,615
+Supongo que no te habrás
+enterado de las buenas noticias.
+
+575
+00:41:05,815 --> 00:41:07,138
+¿Vamos a tener una bolera?
+
+576
+00:41:07,538 --> 00:41:12,251
+Parece que Philippe Saint-Andre
+ha vuelto a casa.
+
+577
+00:41:13,660 --> 00:41:16,131
+¿Tengo que preocuparme
+por ti y por Philippe?
+
+578
+00:41:16,932 --> 00:41:17,917
+<i>Da...</i>
+
+579
+00:41:18,117 --> 00:41:20,190
+<i>y recibirás.</i>
+
+580
+00:41:31,073 --> 00:41:33,134
+<i>Piérdete.</i>
+
+581
+00:41:35,676 --> 00:41:36,778
+Si no tienes cuidado, Patrice,
+
+582
+00:41:36,978 --> 00:41:38,388
+arderás en el Infierno.
+
+583
+00:41:38,888 --> 00:41:39,907
+Soy un gaullista.
+
+584
+00:41:40,107 --> 00:41:42,257
+Así que para muchos,
+ya estoy allí.
+
+585
+00:41:42,457 --> 00:41:45,030
+- Responde a mi pregunta.
+- ¿De qué hay que preocuparse?
+
+586
+00:41:45,230 --> 00:41:47,262
+Hemos hablado de dos hombres
+diferentes que te quieren muerto,
+
+587
+00:41:47,462 --> 00:41:48,859
+y mi desayuno aún no ha llegado.
+
+588
+00:41:49,059 --> 00:41:51,600
+Sí, pero sólo uno de esos
+hombres es un sociópata.
+
+589
+00:41:51,900 --> 00:41:54,138
+Con uno es suficiente.
+
+590
+00:41:54,338 --> 00:41:55,130
+Te lo dije entonces...
+
+591
+00:41:55,330 --> 00:41:56,730
+que tu solución no era
+una solución.
+
+592
+00:41:57,697 --> 00:42:01,322
+Sí,
+pero tú no me estabas pagando.
+
+593
+00:42:02,240 --> 00:42:04,648
+Gabrielle sí.
+
+594
+00:42:06,880 --> 00:42:10,745
+<i>Ha pasado un año del ataque
+en "Petit-clamart", en agosto de 1962.</i>
+
+595
+00:42:10,945 --> 00:42:12,917
+<i>El General de Gaulle, una vez blanco...</i>
+
+596
+00:42:13,117 --> 00:42:15,033
+<i>de simpatizantes de la
+Argelia francesa...</i>
+
+597
+00:42:15,234 --> 00:42:16,983
+<i>y exmiembros de la OAS.</i>
+
+598
+00:42:17,184 --> 00:42:18,843
+<i>El plan de ataque...</i>
+
+599
+00:42:53,683 --> 00:42:54,986
+<i>Hola, Basem.</i>
+
+600
+00:42:55,687 --> 00:42:56,582
+<i>¿Todo bien?</i>
+
+601
+00:42:56,782 --> 00:42:59,176
+<i>Siempre y cuando haga llover,
+señor Spade.</i>
+
+602
+00:42:59,777 --> 00:43:01,051
+<i>Lo intentaré.</i>
+
+603
+00:43:09,152 --> 00:43:10,941
+<i>Mi nieto, como solicitó.</i>
+
+604
+00:43:12,462 --> 00:43:13,580
+Hola, Henri.
+
+605
+00:43:13,780 --> 00:43:15,412
+<i>Vayamos a dar un paseo.</i>
+
+606
+00:43:16,543 --> 00:43:19,313
+¿Te trata bien la vida militar?
+
+607
+00:43:19,513 --> 00:43:21,694
+Bueno,
+el entrenamiento es difícil...
+
+608
+00:43:21,894 --> 00:43:24,391
+mental y físicamente.
+
+609
+00:43:24,891 --> 00:43:27,704
+Pero lo más difícil
+es la disciplina.
+
+610
+00:43:27,904 --> 00:43:29,619
+No acepto órdenes fácilmente.
+
+611
+00:43:29,819 --> 00:43:31,273
+Sé lo que quieres decir.
+
+612
+00:43:31,673 --> 00:43:33,009
+¿Estuvo en el ejército,
+señor Spade?
+
+613
+00:43:33,209 --> 00:43:36,121
+No, fui objetor de conciencia.
+
+614
+00:43:36,321 --> 00:43:39,167
+¿No cree en matar
+a sus semejantes?
+
+615
+00:43:39,767 --> 00:43:41,717
+Creo que hay muchos hombres
+que vale la pena matar,
+
+616
+00:43:41,917 --> 00:43:44,055
+así como un montón de guerras
+que vale la pena luchar.
+
+617
+00:43:44,255 --> 00:43:46,922
+Sólo prefiero elegirme a mí mismo.
+
+618
+00:43:49,267 --> 00:43:51,783
+Como la mala moneda que es,
+
+619
+00:43:51,983 --> 00:43:55,047
+Philippe Saint-Andre se ha
+colado de nuevo en la ciudad.
+
+620
+00:43:55,747 --> 00:43:57,049
+¿Cómo puedo ayudarle?
+
+621
+00:43:57,249 --> 00:43:58,141
+¿Sigues pasando el tiempo...
+
+622
+00:43:58,341 --> 00:43:59,795
+con esa pequeña
+peculiar pelirroja?
+
+623
+00:44:01,395 --> 00:44:02,936
+¿Quién sería esa?
+
+624
+00:44:03,136 --> 00:44:05,161
+Sólo paso el tiempo
+con pelirrojas.
+
+625
+00:44:05,361 --> 00:44:07,219
+Estoy hablando de la pelirroja
+que trajiste a cenar,
+
+626
+00:44:07,419 --> 00:44:09,351
+la que trabaja como
+secretaria del General.
+
+627
+00:44:10,151 --> 00:44:13,045
+Necesito que eches un vistazo al
+expediente de servicio de Philippe,
+
+628
+00:44:13,245 --> 00:44:16,571
+sus actividades en Argelia y todo
+lo que ha hecho desde entonces.
+
+629
+00:44:18,171 --> 00:44:19,082
+No quiero que ni tú,
+ni la pelirroja...
+
+630
+00:44:19,282 --> 00:44:20,796
+se metan en problemas por esto.
+
+631
+00:44:20,996 --> 00:44:23,452
+Tu abuela me mataría.
+
+632
+00:44:23,652 --> 00:44:26,977
+Bueno, ella siempre decía
+que Saint-Andre era un matón,
+
+633
+00:44:27,377 --> 00:44:29,545
+que le gusta hacer
+daño a la gente.
+
+634
+00:44:29,745 --> 00:44:31,417
+Su don especial.
+
+635
+00:44:31,717 --> 00:44:34,506
+Y que estaba chantajeando
+a su mujer de usted...
+
+636
+00:44:34,706 --> 00:44:37,379
+antes de que fuera su esposa.
+
+637
+00:44:37,779 --> 00:44:41,644
+Gabrielle tuvo algunas
+dificultades con Philippe, sí.
+
+638
+00:44:41,844 --> 00:44:44,428
+¿Así que le mandó lejos a él?
+
+639
+00:44:44,628 --> 00:44:46,668
+Bueno, le convencí de que
+podría vivir más tiempo...
+
+640
+00:44:46,904 --> 00:44:49,181
+yéndose a la guerra.
+
+641
+00:44:50,951 --> 00:44:53,184
+Veré lo que puedo encontrar.
+
+642
+00:45:14,515 --> 00:45:17,111
+<i>Mantente alejado de Teresa.</i>
+
+643
+00:45:17,311 --> 00:45:19,765
+Vaya,
+pero si es el padre del año.
+
+644
+00:45:20,065 --> 00:45:22,146
+<i>Lo que digo va en serio, Spade.</i>
+
+645
+00:45:22,346 --> 00:45:25,192
+<i>No quiere que te
+acerques a ella.</i>
+
+646
+00:45:25,492 --> 00:45:27,947
+He oído que tu madre
+ha empezado a tejer.
+
+647
+00:45:28,247 --> 00:45:31,098
+<i>Si supieras la mitad
+de lo que crees.</i>
+
+648
+00:45:31,298 --> 00:45:33,404
+Te invitaría a una copa
+para explicártelo todo,
+
+649
+00:45:33,904 --> 00:45:36,824
+pero supongo que estás
+hasta el cuello de mierda.
+
+650
+00:45:37,024 --> 00:45:40,389
+<i>Métete en tus malditos asuntos.</i>
+
+651
+00:45:48,166 --> 00:45:49,794
+¿Philippe?
+
+652
+00:45:50,194 --> 00:45:51,404
+<i>Se lo dije ayer...</i>
+
+653
+00:45:51,604 --> 00:45:52,971
+<i>de que Philippe había vuelto.</i>
+
+654
+00:45:53,771 --> 00:45:55,246
+Le pregunté si tenía
+qué preocuparme.
+
+655
+00:45:55,446 --> 00:45:57,030
+Y ahora le digo que sí.
+
+656
+00:45:57,230 --> 00:45:59,511
+No, me está diciendo...
+
+657
+00:46:00,011 --> 00:46:03,572
+que recibió una llamada
+de Philippe Saint-Andre,
+
+658
+00:46:03,772 --> 00:46:05,574
+lo cual es, lo admito,
+preocupante,
+
+659
+00:46:06,074 --> 00:46:07,301
+pero no demasiado.
+
+660
+00:46:07,501 --> 00:46:09,246
+Y entonces dice que
+durante esta llamada...
+
+661
+00:46:09,446 --> 00:46:13,208
+escuchó un disparo,
+¿disparado por quién?
+
+662
+00:46:13,508 --> 00:46:14,961
+¿Disparado contra él?
+
+663
+00:46:15,161 --> 00:46:16,528
+Digo que Philippe
+estaba en una habitación...
+
+664
+00:46:16,728 --> 00:46:17,834
+donde se disparó un arma,
+
+665
+00:46:18,134 --> 00:46:19,748
+por él o contra él.
+
+666
+00:46:19,948 --> 00:46:21,141
+Y yo asumiría que usted,
+
+667
+00:46:21,341 --> 00:46:22,925
+siendo el legendario
+sabueso que es,
+
+668
+00:46:23,325 --> 00:46:24,840
+ya habría saltado de su silla...
+
+669
+00:46:25,040 --> 00:46:28,452
+y estaría olfateando
+el campo, en su busca.
+
+670
+00:46:28,652 --> 00:46:30,758
+Dejando a un lado su
+comparación canina barata,
+
+671
+00:46:30,958 --> 00:46:33,865
+sí me considero un experto
+en todas las cosas...
+
+672
+00:46:34,065 --> 00:46:35,406
+de Philippe Saint-Andre.
+
+673
+00:46:35,606 --> 00:46:38,192
+Y yo digo que el hombre
+no será encontrado,
+
+674
+00:46:39,092 --> 00:46:40,928
+a menos que él quiera
+ser encontrado.
+
+675
+00:46:41,128 --> 00:46:43,221
+Así que en lo que es experto
+es en esperar.
+
+676
+00:46:43,421 --> 00:46:45,179
+¿Así que ahora insulta
+mi profesionalidad?
+
+677
+00:46:45,879 --> 00:46:47,020
+Tal vez sólo su coraje.
+
+678
+00:46:47,220 --> 00:46:48,848
+Mi coraje nunca
+ha estado en duda.
+
+679
+00:46:49,348 --> 00:46:51,498
+Tengo las heridas
+que lo demuestran.
+
+680
+00:46:51,698 --> 00:46:52,760
+A diferencia de
+algunos de nosotros.
+
+681
+00:46:52,960 --> 00:46:54,518
+¿Y ahora usted insulta
+mi historial de guerra?
+
+682
+00:46:54,718 --> 00:46:56,824
+Uno tiene que haber luchado
+primero en una guerra,
+
+683
+00:46:57,024 --> 00:46:58,235
+como para tener un
+historial de guerra.
+
+684
+00:46:58,435 --> 00:47:00,451
+Pensé que habíamos prometido
+tener sólo esta conversación...
+
+685
+00:47:00,651 --> 00:47:01,795
+cuando estuviéramos borrachos.
+
+686
+00:47:01,995 --> 00:47:03,758
+Yo tengo resaca.
+
+687
+00:47:03,958 --> 00:47:05,112
+¿Eso cuenta?
+
+688
+00:47:05,312 --> 00:47:06,809
+Dime, Patrice,
+
+689
+00:47:07,209 --> 00:47:09,329
+¿cómo te sentirías si Philippe
+hiciera daño a alguien?
+
+690
+00:47:09,642 --> 00:47:12,528
+Depende de la persona.
+
+691
+00:47:16,244 --> 00:47:19,373
+De acuerdo, pondré a mi
+mejor hombre en la búsqueda.
+
+692
+00:47:19,573 --> 00:47:22,637
+¿Su mejor hombre? ¿Eso significa
+al idiota de su hermano?
+
+693
+00:47:22,937 --> 00:47:24,783
+¿O hacer nada
+es suficientemente bueno?
+
+694
+00:47:25,083 --> 00:47:26,624
+Maurice es un
+excelente Detective.
+
+695
+00:47:26,924 --> 00:47:31,062
+Maurice no podría encontrar agua,
+ni aunque se cayera de un barco.
+
+696
+00:47:31,262 --> 00:47:32,672
+No me haga decirlo.
+
+697
+00:47:33,072 --> 00:47:35,788
+¿Qué? ¿Qué hemos pasado
+por mucho juntos?
+
+698
+00:47:36,088 --> 00:47:37,199
+Que me lo debe.
+
+699
+00:47:37,399 --> 00:47:39,070
+Lo ha entendido al revés,
+¿verdad?
+
+700
+00:47:39,370 --> 00:47:42,777
+Vive aquí porque yo lo permito.
+
+701
+00:47:47,503 --> 00:47:48,987
+<i>¡Mierda!</i>
+
+702
+00:47:54,265 --> 00:47:56,752
+Maurice.
+
+703
+00:47:56,952 --> 00:47:58,918
+<i>¿Crees poder mantener todo
+en orden por unas horas sin mí?</i>
+
+704
+00:47:59,118 --> 00:47:59,811
+<i>¿A dónde vas?</i>
+
+705
+00:48:00,011 --> 00:48:02,356
+<i>La base del ejército en Lyon.</i>
+
+706
+00:48:16,363 --> 00:48:19,657
+<i>- Madame Saint-Andre. Buen día.
+- ¿Qué es lo que quiere?</i>
+
+707
+00:48:20,758 --> 00:48:25,209
+<i>Pensé en venir a ver si Philippe
+quería acompañarme a desayunar.</i>
+
+708
+00:48:25,410 --> 00:48:27,572
+<i>He oído que anda al acecho.</i>
+
+709
+00:48:28,073 --> 00:48:30,151
+<i>Si es así, no ha venido aquí.</i>
+
+710
+00:48:30,552 --> 00:48:32,219
+<i>Pero podría.</i>
+
+711
+00:48:32,420 --> 00:48:35,634
+<i>Lo dudo, mi hijo y yo no
+somos muy compatibles.</i>
+
+712
+00:48:36,035 --> 00:48:38,937
+<i>¿Incluso si anoche fuera herido
+o peor, en un tiroteo?</i>
+
+713
+00:48:40,346 --> 00:48:42,917
+<i>Deje que nos ahorre tiempo.</i>
+
+714
+00:48:43,218 --> 00:48:45,915
+<i>La respuesta a todas sus
+preguntas es: ¡Jódase!</i>
+
+715
+00:48:46,115 --> 00:48:47,115
+<i>De acuerdo.</i>
+
+716
+00:48:47,451 --> 00:48:49,161
+<i>Si lo ve...</i>
+
+717
+00:48:49,462 --> 00:48:51,036
+<i>No soy servicio de mensajería.</i>
+
+718
+00:48:51,371 --> 00:48:52,361
+¿No?
+
+719
+00:48:52,561 --> 00:48:54,511
+<i>Pero si es cartera.</i>
+
+720
+00:48:55,070 --> 00:48:57,701
+<i>Entregando cartas a la hija de él.</i>
+
+721
+00:49:01,674 --> 00:49:03,039
+<i>Que tenga buen día.</i>
+
+722
+00:49:05,355 --> 00:49:07,056
+<i>Que se caiga muerto.</i>
+
+723
+00:49:07,357 --> 00:49:09,030
+<i>Estoy trabajando en ello.</i>
+
+724
+00:49:58,849 --> 00:50:03,258
+Sam, Philippe Saint-Andre.
+
+725
+00:50:06,025 --> 00:50:08,257
+¿Es él?
+
+726
+00:50:09,555 --> 00:50:11,221
+Esta noche no.
+
+727
+00:50:46,471 --> 00:50:48,965
+Supongo que me perdí
+el espectáculo.
+
+728
+00:50:51,102 --> 00:50:53,770
+Más vale
+que sea uno del '52.
+
+729
+00:50:54,653 --> 00:50:56,403
+A veces Patrice tiene razón.
+
+730
+00:50:56,603 --> 00:50:58,605
+Quiero decir, hay un montón
+de rocas bajo las que mirar...
+
+731
+00:50:58,805 --> 00:51:00,738
+entre aquí y Argelia.
+
+732
+00:51:00,938 --> 00:51:02,521
+Y no tienes ni un
+poco de curiosidad...
+
+733
+00:51:02,821 --> 00:51:04,188
+¿por qué ha vuelto Philippe?
+
+734
+00:51:04,588 --> 00:51:05,698
+No.
+
+735
+00:51:05,898 --> 00:51:08,440
+¿O por qué te llamó
+en medio de un tiroteo?
+
+736
+00:51:08,640 --> 00:51:10,573
+Era más bien el
+comienzo de un tiroteo.
+
+737
+00:51:10,873 --> 00:51:13,140
+Incluso teniendo en cuenta lo
+que intentó hacerle a Gabrielle.
+
+738
+00:51:13,340 --> 00:51:15,098
+¿Todavía no es asunto tuyo?
+
+739
+00:51:15,698 --> 00:51:17,548
+<i>Al contrario.</i>
+
+740
+00:51:17,748 --> 00:51:19,394
+Escuchar ese disparo, me recordó...
+
+741
+00:51:19,594 --> 00:51:22,653
+que soy alérgico a los
+asuntos ajenos.
+
+742
+00:51:23,149 --> 00:51:24,560
+¿Desde cuándo?
+
+743
+00:51:24,760 --> 00:51:26,952
+Desde que me mudé
+a la bella Bozouls.
+
+744
+00:51:27,452 --> 00:51:28,276
+Pero antes de que llegaras,
+
+745
+00:51:28,476 --> 00:51:31,888
+tu talento era los
+asuntos de otros, ¿verdad?
+
+746
+00:51:32,288 --> 00:51:34,569
+"Talento. "
+Eso es muy florido.
+
+747
+00:51:34,969 --> 00:51:38,202
+"Sólo por dinero",
+como solía llamarlo Miles.
+
+748
+00:51:43,386 --> 00:51:44,866
+La gente acude a ti
+con sus problemas,
+
+749
+00:51:45,153 --> 00:51:48,348
+y tú acabas heredando
+esos problemas.
+
+750
+00:51:48,548 --> 00:51:51,846
+Pero eres bueno arreglándolos,
+así que los problemas siguen llegando,
+
+751
+00:51:52,046 --> 00:51:54,018
+junto con el dinero.
+
+752
+00:51:55,132 --> 00:51:55,981
+En muy poco tiempo,
+
+753
+00:51:56,181 --> 00:51:58,288
+los problemas pasan
+de pequeños a letales.
+
+754
+00:51:58,688 --> 00:52:00,116
+Resulta que también
+se te dan bien esos.
+
+755
+00:52:00,316 --> 00:52:02,365
+Tal vez demasiado bien.
+
+756
+00:52:02,565 --> 00:52:04,293
+Un día te despiertas,
+te miras en el espejo...
+
+757
+00:52:04,493 --> 00:52:06,252
+y ves a alguien que
+no te agrada mucho.
+
+758
+00:52:06,452 --> 00:52:07,818
+No es gran cosa.
+
+759
+00:52:08,218 --> 00:52:11,017
+Simplemente no te
+mires más en el espejo.
+
+760
+00:52:12,405 --> 00:52:14,658
+El dinero y la bebida
+son una buena distracción...
+
+761
+00:52:14,858 --> 00:52:18,531
+hasta que finalmente te pudras
+desde adentro hacia afuera.
+
+762
+00:52:18,731 --> 00:52:19,780
+Y no importa cuánto bebas...
+
+763
+00:52:19,980 --> 00:52:21,900
+o cuánto dinero ganes,
+
+764
+00:52:22,100 --> 00:52:25,594
+nunca podrás escapar
+de tu propia peste.
+
+765
+00:52:27,334 --> 00:52:29,515
+Eso es muy vívido.
+
+766
+00:52:29,715 --> 00:52:33,258
+Pero no la razón por
+la que estás aquí.
+
+767
+00:52:33,458 --> 00:52:36,260
+La gente no sólo viene
+al hermoso Bozouls.
+
+768
+00:52:36,560 --> 00:52:38,977
+Serías una buena Detective,
+mejor que yo.
+
+769
+00:52:39,177 --> 00:52:42,846
+- Por favor, soy dueña de un bar.
+- Copropietaria.
+
+770
+00:52:44,364 --> 00:52:46,602
+La primera vez que
+vine a este lugar,
+
+771
+00:52:47,002 --> 00:52:50,008
+fuiste la única que
+no me miró de reojo.
+
+772
+00:52:50,208 --> 00:52:53,268
+Pero lo he hecho muchas
+veces desde entonces.
+
+773
+00:53:02,045 --> 00:53:04,974
+¿Qué haces aquí, Spade?
+
+774
+00:53:05,496 --> 00:53:08,061
+Haciendo el dulce amor a tu esposa.
+
+775
+00:53:09,593 --> 00:53:11,652
+Ahora me voy.
+
+776
+00:53:16,907 --> 00:53:19,976
+Deberías tenerme más miedo.
+
+777
+00:53:20,176 --> 00:53:21,417
+No sabes quién carajos soy,
+
+778
+00:53:21,617 --> 00:53:22,275
+lo que significa que no sabes...
+
+779
+00:53:22,475 --> 00:53:24,713
+lo que he hecho o
+lo que te puedo hacer.
+
+780
+00:53:25,881 --> 00:53:27,322
+¿Crees que soy un tonto?
+
+781
+00:53:27,522 --> 00:53:29,716
+No creo que seas un tonto.
+
+782
+00:53:30,016 --> 00:53:31,313
+Creo que eres como
+uno de esos tipos...
+
+783
+00:53:31,513 --> 00:53:32,293
+tarde en la noche, en un bar...
+
+784
+00:53:32,493 --> 00:53:34,992
+que toca la misma canción triste
+una y otra vez...
+
+785
+00:53:35,192 --> 00:53:37,427
+en la gramola.
+
+786
+00:53:50,296 --> 00:53:53,534
+Recuerdo la versión
+no borracha de ti.
+
+787
+00:53:53,734 --> 00:53:56,076
+No era un huevo tan malo.
+
+788
+00:53:56,276 --> 00:53:58,991
+Quiero decir, después de todo...
+
+789
+00:53:59,591 --> 00:54:01,998
+ella se casó contigo.
+
+790
+00:54:50,774 --> 00:54:53,229
+Señor Spade.
+
+791
+00:54:53,629 --> 00:54:55,949
+¿Teresa?
+
+792
+00:54:57,206 --> 00:54:59,656
+Ayúdeme.
+
+793
+00:55:19,397 --> 00:55:21,416
+- Corrí todo el camino.
+- Dime que pasó...
+
+794
+00:55:21,616 --> 00:55:24,197
+y empieza por de quien
+es esa sangre.
+
+795
+00:55:25,151 --> 00:55:26,069
+La de mi padre.
+
+796
+00:55:26,269 --> 00:55:28,028
+¿Philippe vino a verte?
+
+797
+00:55:28,228 --> 00:55:29,059
+Alguien le disparó.
+
+798
+00:55:29,259 --> 00:55:30,495
+¿Viste quién?
+
+799
+00:55:30,995 --> 00:55:31,745
+Fue antes.
+
+800
+00:55:31,945 --> 00:55:34,224
+¿Te dijo quién le disparó?
+
+801
+00:55:34,624 --> 00:55:36,545
+Dijo: "Hombres muy malos. "
+
+802
+00:55:36,745 --> 00:55:38,982
+¿Como hombres peores que él?
+
+803
+00:55:39,182 --> 00:55:41,376
+Sé que a la gente no
+le agrada mi padre,
+
+804
+00:55:41,676 --> 00:55:42,676
+pero no le conocen.
+
+805
+00:55:43,020 --> 00:55:43,605
+No como yo.
+
+806
+00:55:43,805 --> 00:55:46,099
+Aún así, estamos aquí sentados,
+porque le dispararon a tu padre...
+
+807
+00:55:46,299 --> 00:55:48,251
+por, y cito,
+"algunos hombres muy malos, "
+
+808
+00:55:48,651 --> 00:55:51,454
+lo que sólo puedo suponer
+que fue por un mal negocio.
+
+809
+00:55:51,754 --> 00:55:52,765
+Y sin embargo,
+a pesar del peligro,
+
+810
+00:55:52,965 --> 00:55:54,957
+de alguna manera se da cuenta de
+que la mejor persona para correr...
+
+811
+00:55:55,157 --> 00:55:56,403
+es con su hija de 14 años.
+
+812
+00:55:56,603 --> 00:55:57,603
+Ya tengo 15.
+
+813
+00:55:58,091 --> 00:56:00,100
+<i>Y estás siendo un idiota.</i>
+
+814
+00:56:00,300 --> 00:56:03,186
+Eso me dicen.
+¿Dónde está él ahora?
+
+815
+00:56:03,999 --> 00:56:06,106
+Teresa, ¿dónde está Philippe?
+
+816
+00:56:06,406 --> 00:56:08,369
+- ¿Puedo tomar otra?
+- No.
+
+817
+00:56:08,569 --> 00:56:10,544
+Entonces llama a la puerta
+con una bala adentro,
+
+818
+00:56:10,944 --> 00:56:12,620
+te da un abrazo, y luego qué,
+¿simplemente se va?
+
+819
+00:56:12,820 --> 00:56:13,420
+Sí.
+
+820
+00:56:13,620 --> 00:56:16,253
+Y durante esa breve estancia,
+¿qué hizo?
+
+821
+00:56:16,733 --> 00:56:18,404
+¿Dijo qué?
+
+822
+00:56:18,604 --> 00:56:20,412
+Deja de pensar en qué
+mentira quiere él que me digas...
+
+823
+00:56:20,612 --> 00:56:23,409
+y cuéntame lo que
+pasó en realidad.
+
+824
+00:56:24,480 --> 00:56:26,243
+La gente que le disparó,
+
+825
+00:56:26,443 --> 00:56:27,553
+¿le siguieron hasta el convento?
+
+826
+00:56:27,753 --> 00:56:29,468
+No sé quién disparó a papá.
+
+827
+00:56:30,068 --> 00:56:31,739
+Tal vez el monje.
+
+828
+00:56:31,939 --> 00:56:32,879
+Vino justo después
+de que papá se fuera.
+
+829
+00:56:33,079 --> 00:56:34,751
+Empezó a golpear la
+puerta con un palo.
+
+830
+00:56:35,651 --> 00:56:37,309
+Quería ver a la Madre Superiora.
+
+831
+00:56:37,509 --> 00:56:39,094
+Este monje, ¿qué aspecto tenía?
+
+832
+00:56:39,394 --> 00:56:41,635
+Cara fea con...
+Con una voz ronca.
+
+833
+00:56:41,835 --> 00:56:44,129
+¿Nariz grande, ojos marrones?
+¿Una de esas capuchas flexibles?
+
+834
+00:56:44,329 --> 00:56:45,682
+- ¿Le conoce?
+- Le he visto antes.
+
+835
+00:56:45,882 --> 00:56:47,336
+¿Qué quería con la
+Madre Superiora?
+
+836
+00:56:47,736 --> 00:56:48,973
+No lo sé.
+
+837
+00:56:49,173 --> 00:56:51,428
+Irrumpió y empezó a gritarle.
+
+838
+00:56:51,628 --> 00:56:52,908
+Ella le dijo que se fuera,
+
+839
+00:56:53,308 --> 00:56:55,662
+pero juró el nombre del Señor
+en vano y entonces,
+
+840
+00:56:55,862 --> 00:56:57,489
+y luego la golpeó.
+
+841
+00:56:57,889 --> 00:56:59,261
+¿Se encuentra bien?
+
+842
+00:56:59,461 --> 00:57:00,653
+No lo sé.
+
+843
+00:57:01,053 --> 00:57:02,277
+Todo fue tan confuso
+después de eso.
+
+844
+00:57:02,477 --> 00:57:03,787
+- Todo el mundo se escondió.
+- No todos.
+
+845
+00:57:03,987 --> 00:57:05,571
+Tú has venido aquí, ¿por qué?
+
+846
+00:57:06,071 --> 00:57:07,456
+Porque soy la mayor
+y más rápida.
+
+847
+00:57:07,656 --> 00:57:10,976
+Sí, pero ¿por qué venir aquí
+y no a la Gendarmería?
+
+848
+00:57:13,296 --> 00:57:14,911
+<i>Ese Comandante...</i>
+
+849
+00:57:16,312 --> 00:57:18,632
+Me da miedo.
+
+850
+00:57:19,794 --> 00:57:23,114
+Quédate aquí.
+No te muevas.
+
+851
+00:58:18,130 --> 00:58:20,190
+<i>¿Su reloj de descompuso?</i>
+
+852
+00:58:20,489 --> 00:58:23,331
+Lamento despertarla.
+
+853
+00:58:28,361 --> 00:58:30,650
+<i>Si lamenta despertarme,
+¿por qué hacerlo?</i>
+
+854
+00:58:30,850 --> 00:58:33,009
+Hay un problema.
+
+855
+00:58:40,103 --> 00:58:41,905
+Helena estará aquí en un minuto.
+
+856
+00:58:42,305 --> 00:58:45,190
+Voy a ver qué ocurre por allá.
+
+857
+00:58:55,638 --> 00:59:00,352
+Si vienen problemas,
+lee el buen libro.
+
+858
+01:02:08,040 --> 01:02:08,882
+<i>Abran la puerta.</i>
+
+859
+01:02:09,183 --> 01:02:11,114
+<i>Por favor, no nos lastime.</i>
+
+860
+01:02:11,449 --> 01:02:13,665
+No voy a hacerles daño.
+
+861
+01:02:13,865 --> 01:02:15,048
+<i>¿Señor Spade?</i>
+
+862
+01:02:16,064 --> 01:02:18,073
+<i>- ¿Cuál es el problema?
+- Nos encerraron.</i>
+
+863
+01:02:18,273 --> 01:02:19,149
+<i>¿Dónde está la llave?</i>
+
+864
+01:02:19,349 --> 01:02:20,697
+<i>Teresa la tiene.</i>
+
+865
+01:02:20,957 --> 01:02:21,505
+De acuerdo.
+
+866
+01:02:21,706 --> 01:02:22,704
+<i>Ya regreso.</i>
+
+867
+01:02:22,904 --> 01:02:24,090
+¡No, no, no!
+
+868
+01:02:26,027 --> 01:02:27,459
+<i>No los voy a dejar.</i>
+
+869
+01:02:28,260 --> 01:02:30,134
+<i>Sólo guarden silencio.</i>
+
